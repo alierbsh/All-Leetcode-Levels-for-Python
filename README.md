@@ -1,6 +1,6 @@
-# All LeetCode Levels for Python 🐍
+# All Algorithm Problems in Leetcode in terms of Levels for Python 🐍
 
-This repository contains Python solutions to LeetCode problems, structured by difficulty level:  
+This repository contains Python solutions to LeetCode Algorithm problems, structured by difficulty level:  
 🟢 Easy • 🟡 Medium • 🔴 Hard
 
 My goal is to master algorithms and data structures by solving real interview-style problems and maintaining a clean, organized portfolio of solutions.
@@ -28,4 +28,4 @@ Each file includes:
 - Python 3.10+
 - LeetCode problems
 - VS Code (for editing)
-- Git (for version control)
+- Git (here :)(for version control)
