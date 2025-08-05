@@ -1,4 +1,4 @@
-# All Algorithm Problems in Leetcode in terms of Levels for Python 🐍
+# Algorithm Problems in Leetcode in terms of Levels for Python 🐍
 
 This repository contains Python solutions to LeetCode Algorithm problems, structured by difficulty level:  
 🟢 Easy • 🟡 Medium • 🔴 Hard
